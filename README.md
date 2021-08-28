@@ -1,8 +1,6 @@
 ### Hello there visitor!
 
-I'm a Principal Software Engineer for Microsoft Corporation in Redmond, Washington, USA.
 
-💬 Ask me about [Lottie-Windows](https://aka.ms/lottie).
 
 <!--
 **simeoncran/simeoncran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
